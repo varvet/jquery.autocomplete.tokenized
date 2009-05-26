@@ -3,7 +3,7 @@ A simple jQuery plugin for autocomplete, with tokenization support.
 Usage:
 ------
 
-  $("#text_field").autocomplete(['foo', 'bar', 'baz'], {split: /,\s?/});
+    $("#text_field").autocomplete(['foo', 'bar', 'baz'], {split: /,\s?/});
 
 License:
 --------
