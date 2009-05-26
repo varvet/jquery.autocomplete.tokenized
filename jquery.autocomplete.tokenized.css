@@ -1,0 +1,16 @@
+.autocomplete {
+  background: #FFF;
+  border: 1px solid #ccc;
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  position: absolute;
+}
+
+.autocomplete li {
+  padding: 1px 3px;
+}
+
+.autocomplete .active {
+  background: #ff9;
+}
